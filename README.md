@@ -5,6 +5,8 @@ Download the full video or audio only, ideal for musics.
 
 # Installation 
 
+Clone the repository using `git clone https://github.com/LysImbecile/Tkinter-YouTube-Downloader.git`
+
 First of all, install the dependencies using `pip install -r requirements.txt` on the main folder.
 
 ![image](https://github.com/LysImbecile/Tkinter-YouTube-Downloader/assets/136639736/242be4de-07d4-4ee1-a22b-9685907e2e45)
